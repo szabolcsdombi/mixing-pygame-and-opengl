@@ -1,0 +1,4 @@
+moderngl==5.9.0
+pillow==10.1.0
+pygame-ce==2.3.2
+zengl==1.18.0
